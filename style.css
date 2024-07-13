@@ -1,0 +1,36 @@
+html{
+    background-color: black;
+}
+h1{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: auto;
+  font-style: normal;
+  color: white;
+}
+#orange{
+    height: 250px;
+    width: 400px;
+    background-color: #FF671F;
+    position: relative;
+}
+#white{
+    width: 400px;
+    height: 83.33px;
+    background-color: white;
+    position: relative;
+    top:83.33px;
+}
+#green{
+    position: relative;
+    top: 83.34px;
+    height: 83.33px;
+    width: 400px;
+    background-color: #046A38;
+}
+img{
+    position: relative;
+    width: 83.33px;
+    bottom: 83.34px;
+    left: 158.335px;
+}
