@@ -1,7 +1,7 @@
 html{
     background-color: black;
 }
-body{
+#project{
     display: flex;
     justify-content: center;
     height: 100vh;
